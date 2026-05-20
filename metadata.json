@@ -1,0 +1,6 @@
+{
+  "name": "Systems Architecture Curriculum",
+  "description": "An interactive, first-principles systems engineering and architecture curriculum covering filesystem logs, SQL, Python bridges, API design, and telemetry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
